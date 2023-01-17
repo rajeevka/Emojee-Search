@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(67, 65, 65);
+}
+
+h1{
+    color: white;
+}
+
+table {
+    width: 100%;
+     border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+   
+    border-spacing: 2px;
+       
+    
+    
+    
+}
+
+tr, td {
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+ .tablerow{
+    margin: 20px;
+   
+    
+   
+}
+
+td{
+    display: table-cell;
+    color: white;
+    font-size: 20px;
+    
+    
+
+}
+#emojiIcon{
+    font-size: 300%;
+    width: 8rem;
+    max-width: 8rem;
+}
+
+
+#emojiTags{
+text-transform: capitalize;
+    font-size: 125%;
+    width: 40%;
+}
+#emojiname{
+    text-transform: capitalize;
+    font-size: 125%;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 0px;
+    margin: 5px;
+    outline: none;
+}
+button{
+    width: 80px;
+    height: 35px;
+    border-radius: 0px;
+}
